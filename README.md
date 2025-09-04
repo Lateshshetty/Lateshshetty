@@ -13,7 +13,10 @@
 
 - 👯 I’m looking to collaborate on **App Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ringzero0](https://github.com/ringzero0)
+- 👨‍💻 All of my projects are available at:  
+- [https://github.com/ringzero0](https://github.com/ringzero0)  
+- [https://github.com/Lateshshetty?tab=repositories](https://github.com/Lateshshetty?tab=repositories)
+
 
 - 📫 How to reach me **lateshshetty945@gmail.com**
 

@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **lateshshetty945@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UMtESCoUS0AVrkigZrxtSl0tLjsQ2IJO/view?usp=drivesdk](https://drive.google.com/file/d/1UMtESCoUS0AVrkigZrxtSl0tLjsQ2IJO/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o-ci5CkPKQGZZHwSYR6W15a6aL2tc1Oi/view?usp=drive_link](https://drive.google.com/file/d/1o-ci5CkPKQGZZHwSYR6W15a6aL2tc1Oi/view?usp=drive_link)
 
 - ⚡ Fun fact **I enjoy solving DSA problems in Java daily, but sometimes spend more time debugging than coding! 😆**
 

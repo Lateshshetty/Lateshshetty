@@ -103,11 +103,11 @@ const latesh = {
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ⚡ Parallel AI    │ All 3 models fire at the same time          ║
-║  🔐 Auth           │ Google OAuth2 + Spring Security sessions    ║
+║  ⚡ Parallel AI    │ All 3 models fire at the same time         ║
+║  🔐 Auth           │ Google OAuth2 + Spring Security sessions   ║
 ║  🤖 Spring AI      │ Gemini · Groq LLaMA 3.1 · Ollama           ║
-║  🗄️  Database      │ MongoDB Atlas — auto-registers on login     ║
-║  🎨 Themed UI      │ Aged paper · Rubber stamps · Typewriter     ║
+║  🗄️  Database      │ MongoDB Atlas — auto-registers on login    ║
+║  🎨 Themed UI      │ Aged paper · Rubber stamps · Typewriter    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 

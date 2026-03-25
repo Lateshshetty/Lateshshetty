@@ -117,15 +117,6 @@ const latesh = {
 <!--   GITHUB STATS — YOUR OWN VERCEL INSTANCE (no rate limit)  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `> stats --all`
-
-<div align="center">
-
-<img height="180" src="https://readme-stats-chi-beryl.vercel.app/api?username=Lateshshetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="180" src="https://readme-stats-chi-beryl.vercel.app/api/top-langs/?username=Lateshshetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
 
 ---
 
